@@ -2,7 +2,7 @@
 
 file dokumentasi pdf: Test Programmer - (Muhammad Subeqi).pdf
 
-link dokumentasi video :
+link dokumentasi video : https://www.youtube.com/watch?v=sA8i6s0mRgM
 
 Tampilan dari daftar produk yang saya buat
 

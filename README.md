@@ -5,4 +5,4 @@ file dokumentasi pdf: Test Programmer - (Muhammad Subeqi).pdf
 link dokumentasi video :
 
 Tampilan dari daftar produk yang saya buat
-<img src="app.png">
+<img src="https://github.com/muhammadsubeqi/tes_programmer_fastprint/blob/master/public/app.png">

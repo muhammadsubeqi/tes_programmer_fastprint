@@ -5,4 +5,4 @@ file dokumentasi pdf: Test Programmer - (Muhammad Subeqi).pdf
 link dokumentasi video :
 
 Tampilan dari daftar produk yang saya buat
-<img src="/img/app.png">
+<img src="app.png">

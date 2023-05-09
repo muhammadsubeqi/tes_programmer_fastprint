@@ -7,3 +7,6 @@ link dokumentasi video : https://www.youtube.com/watch?v=sA8i6s0mRgM
 Tampilan dari daftar produk yang saya buat
 
 <img src="https://github.com/muhammadsubeqi/tes_programmer_fastprint/blob/master/public/app.png">
+
+Framework : Laravel
+Library : Bootstrap5, Datatable, SweetAlert2

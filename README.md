@@ -8,5 +8,5 @@ Tampilan dari daftar produk yang saya buat
 
 <img src="https://github.com/muhammadsubeqi/tes_programmer_fastprint/blob/master/public/app.png">
 
-Framework : Laravel
+Framework : Laravel </br>
 Library : Bootstrap5, Datatable, SweetAlert2

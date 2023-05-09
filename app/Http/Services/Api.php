@@ -7,7 +7,7 @@ class Api {
     public function product()
     {
         // Untuk cek password dan username saya menggunakan POSTMAN  
-        $username = 'tesprogrammer090523C22';
+        $username = 'tesprogrammer090523C23';
         $password = md5('bisacoding-09-05-23');
         $post = [
             'username' => $username,

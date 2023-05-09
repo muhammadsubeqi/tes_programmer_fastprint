@@ -24,7 +24,11 @@ Route::get('/produk-api', [ProductController::class, 'uploadFromApi']);
 
 // route tampilan daftar product
 Route::get('/', [ProductController::class, 'index'])->name('produk.daftar');
+// route menampilkan tambah data produk
 Route::get('/create', [ProductController::class, 'create'])->name('produk.create');
+// route memasukkan data produk ke database
 Route::post('/store', [ProductController::class, 'store'])->name('produk.store');
+// route mengedit data produk 
 Route::post('/edit', [ProductController::class, 'edit'])->name('produk.edit');
+// route menghapus data produk
 Route::delete('/delete', [ProductController::class, 'destroy'])->name('produk.delete');

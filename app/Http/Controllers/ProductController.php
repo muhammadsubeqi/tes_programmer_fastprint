@@ -15,7 +15,6 @@ class ProductController extends Controller
         $getApiProduct = $apiProduct->product();
 
         $data = json_decode($getApiProduct, true);
-        dd($data);
         $banyakData = $data['data'];
 
        for ($i=0; $i < count($banyakData) ; $i++) { 
